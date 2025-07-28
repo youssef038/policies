@@ -1,5 +1,5 @@
 # policies
-Last Updated: [Insert Date]
+Last Updated: [28/07/2025]
 
 1. Information We Collect
 No personal data is collected or stored
@@ -49,24 +49,8 @@ Right to opt-out of analytics collection
 8. Contact Us
 For any privacy-related questions, contact: mezianeyoussef27@gmail.com
 
-Additional Recommendations:
-
-For GDPR Compliance (if serving EU users):
-
-Add Data Processing Agreement information
-
-Specify your Data Protection Officer contact
-
-For CCPA Compliance (if serving California users):
-
-Add "Do Not Sell My Personal Information" section
-
-Include California-specific consumer rights
-
 Technical Implementation:
 
 Host this on a permanent URL (e.g., https://yourdomain.com/privacy)
 
 Create a dedicated privacy@yourdomain.com email
-
-Include version history of policy changes
